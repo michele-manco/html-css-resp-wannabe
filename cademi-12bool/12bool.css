@@ -105,7 +105,7 @@
 
 
 @media screen and (min-width:993px) and (max-width:1200px){
-    .container{
+    .row{
       width: 950px;
     }
 }
@@ -113,7 +113,7 @@
 
 @media screen and (min-width:769px) and (max-width:992px){
 
-  .container{
+  .row{
     width: 750px;
   }
 
@@ -201,7 +201,7 @@
 
 
 @media screen  and (max-width:768px){
-  .container{
+  .row{
     width: 100%;
     padding: 0 15px;
 
