@@ -3,13 +3,13 @@
   padding:0;
   box-sizing: border-box;
 }
-.contenitore::after{
+.row::after{
   clear: both;
   display: table;
   content: ""
 }
 
-.contenitore{
+.row{
   max-width: 1170px;
   margin: 0 auto;
 
